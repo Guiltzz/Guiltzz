@@ -1,5 +1,15 @@
 ## Ola  👋
 
+## 💼 Perfil Profissional
+
+- Curso Técnico de Desenvolvimento de Sistemas (Senac São Leopoldo - Em andanmento)
+
+- Curso 3 mil talentos (Senac São Leopoldo - Concluido)
+
+
+## Linguagens :
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
 <!--
 **Guiltzz/Guiltzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
