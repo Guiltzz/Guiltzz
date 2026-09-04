@@ -9,6 +9,9 @@
 
 ## 🌐 Linguagens :
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+
 
 ### ⚙️ Ferramentas :
 
