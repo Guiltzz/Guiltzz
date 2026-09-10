@@ -2,6 +2,7 @@
 
 ## 💼 Perfil Profissional
 
+- Faculdade Sistema de Informação (Unisinos-Em andamento)
 - Curso Técnico de Desenvolvimento de Sistemas (Senac São Leopoldo - Em andanmento)
 
 - Curso 3 mil talentos (Senac São Leopoldo - Concluido)
