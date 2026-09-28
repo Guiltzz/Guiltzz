@@ -17,7 +17,7 @@
 
 ### ⚙️ Ferramentas :
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,sql)](https://skillicons.dev)
 
 <!--
 **Guiltzz/Guiltzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
